@@ -1,4 +1,4 @@
 <?php
- echo "Primeira Página";
+ echo "Primeira Página, bem vindo!";
 
 ?>
