@@ -1,4 +1,6 @@
 <?php
- echo "Primeira Página, bem vindo!";
+
+    $nome = "Thomas";
+    echo "Primeira Página, bem vindo!";
 
 ?>
