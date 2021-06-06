@@ -1,5 +1,6 @@
 <?php
-$nome = "Thomas Adam da Costa"
+
+
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -16,10 +17,10 @@ $nome = "Thomas Adam da Costa"
         Primeira Página
     </h1>
     <br />
-    <h2> 
-        <?php 
-            echo $nome; 
-        ?> 
+    <h2>
+        <?php
+            
+        ?>
     </h2>
 </body>
 
